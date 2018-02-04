@@ -1,0 +1,23 @@
+.container{
+    align-self: auto;
+}
+    
+
+.i-am-centered { 
+    text-align: center;
+    margin: auto; 
+    width:65%;
+    /* background-color:red; */
+}
+.timer-div{
+    width: 100%;
+    background-color: #E4E8F3;
+}
+.row{
+    text-align: center;
+    
+}
+.heading{
+    text-align: center;
+    width:100%
+}
